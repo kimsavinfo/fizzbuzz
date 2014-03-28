@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="17" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.7794118" vertical-offset="123" max-vertical-offset="735">
+            <state line="22" column="0" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="10" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.24509804" vertical-offset="0" max-vertical-offset="735">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,9 +114,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/main/java/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" />
       </list>
     </option>
   </component>
@@ -629,12 +629,12 @@
       <workItem from="1396005116416" duration="3775000" />
       <workItem from="1396008996977" duration="46000" />
       <workItem from="1396009334193" duration="147000" />
-      <workItem from="1396010751462" duration="2501000" />
+      <workItem from="1396010751462" duration="3717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6469000" />
+    <option name="totallyTimeSpent" value="7685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1922" height="1082" extended-state="6" />
@@ -776,15 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
@@ -797,8 +788,17 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="17" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.7794118" vertical-offset="123" max-vertical-offset="735">
+        <state line="22" column="0" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="735">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.24509804" vertical-offset="0" max-vertical-offset="735">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
